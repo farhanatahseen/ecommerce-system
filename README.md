@@ -1,3 +1,4 @@
+E-Commerce Shopping Management System
 Project Description This project is an E-Commerce Shopping Management System developed in C++. It provides a comprehensive solution for user registration, product management, shopping cart functionality, and payment processing. The system allows administrators to manage products and users, while customers can register, log in, browse products, add products to their shopping cart, and make payments.
 
 Features
